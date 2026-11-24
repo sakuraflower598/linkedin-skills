@@ -5,7 +5,7 @@
     "url": "https://github.com/sergebulaev"
   },
   "metadata": {
-    "description": "Claude Code and Codex skills for LinkedIn growth: post writing, comment drafting, reply handler (single + whole-thread sweep), hook extractor, humanizer (with bundled audit + AI-detector spread tester + emoji detector + rule explainer), profile optimizer, content planner, employee advocacy, thread monitor (author-reply tracking), engager analytics (likers/commenters ICP segmentation), interviewer (Story Bank)."
+    "description": "12 LinkedIn marketing skills: post writer with 2026 hook formulas, comment and reply drafters, humanizer and pre-publish audit, profile optimizer, content planner, repurposer, interviewer (Story Bank). Draft-only: nothing is published without your approval."
   },
   "plugins": [
     {
